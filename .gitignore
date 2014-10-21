@@ -1,0 +1,21 @@
+# Laravel
+/vendor
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+/bootstrap/compiled.php
+
+# Packages
+/node_modules
+/bower_components
+
+# ide / editor
+.tags
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+Icon?
+.cache
