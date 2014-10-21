@@ -1,6 +1,6 @@
 # Laravel 4.2 using Foundation 5, Font Awesome 4, Bower, and Gulp.js with Environments 
 
-A starter [Laravel](https://github.com/laravel/laravel) app ready to go with asset management provided by [Gulp.js](https://github.com/gulpjs/gulp), Twitter [Bower](https://github.com/bower/bower) using [Foundation 5](https://github.com/twbs/bootstrap) and [Font Awesome 4](https://github.com/FortAwesome/Font-Awesome) with preconfigured [Laravel Environments](http://laravel.com/docs/configuration#environment-configuration).
+A starter [Laravel](https://github.com/laravel/laravel) app ready to go with asset management provided by [Gulp.js](https://github.com/gulpjs/gulp), Twitter [Bower](https://github.com/bower/bower) using [Foundation 5](https://github.com/zurb/foundation) and [Font Awesome 4](https://github.com/FortAwesome/Font-Awesome) with preconfigured [Laravel Environments](http://laravel.com/docs/configuration#environment-configuration).
 
 >__Neat__: Pulls in Bootstrap, JQuery, Font Awesome and any other `bower` packages directly from `bower_components` so you will always have the direct source when building from Gulp. No more copy/paste to update versions! At anytime run `bower update` then `gulp` and your compiled `css` and `js` will be refreshed with the latest versions of each package directly from the `src` directories of each project. See the Gulp `js:vendor` and `less:build` tasks in `gulpfile.js` for more information.
 
