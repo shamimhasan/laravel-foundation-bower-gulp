@@ -1,4 +1,4 @@
-# Laravel 4.2 using Bootstrap 3, Font Awesome 4, Bower, and Gulp.js with Environments 
+# Laravel 4.2 using Foundation 5, Font Awesome 4, Bower, and Gulp.js with Environments 
 
 A starter [Laravel](https://github.com/laravel/laravel) app ready to go with asset management provided by [Gulp.js](https://github.com/gulpjs/gulp), Twitter [Bower](https://github.com/bower/bower) using [Bootstrap 3](https://github.com/twbs/bootstrap) and [Font Awesome 4](https://github.com/FortAwesome/Font-Awesome) with preconfigured [Laravel Environments](http://laravel.com/docs/configuration#environment-configuration).
 
